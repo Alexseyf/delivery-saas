@@ -1,6 +1,6 @@
-# SaaS Stripe Project
+# Pizza Delivery - SaaS Stripe
 
-Este projeto é uma aplicação SaaS com integração Stripe, utilizando Next.js, Prisma e PostgreSQL.
+Este projeto é uma aplicação SaaS para um delivery de pizzas, com integração Stripe, utilizando Next.js, Prisma e PostgreSQL.
 
 ## Estrutura do Projeto
 - **Next.js** para frontend e backend
